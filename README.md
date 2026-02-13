@@ -5,84 +5,75 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **DineVibe – a banquet & event discovery platform**
-- 🧠 Working on **AI + Cybersecurity + Intelligent Systems**
-- ⚙️ Love building **end-to-end products (Frontend → Backend → DB → Hardware → AI)**
-- 📡 Experienced with **IoT, ESP32 sensors, Network Security, and Real-time systems**
+- 🔭 Building **DineVibe – an event & banquet discovery platform**
+- 🧠 Working on **AI, Cybersecurity, and Intelligent Systems**
+- ⚙️ Skilled in **Flask, Next.js, DBMS, IoT, Networking, System Design**
 - 📄 Presented **IEEE Research Paper on LLM-based Code Generation**
-- 🏆 Hackathons, internships, and real-world client projects
-- 💬 Ask me about **Full Stack, Flask, Next.js, AI/ML, DBMS, IoT, OpenGL**
-- ⚡ Fun fact: I turn ideas into working products faster than most people plan them
+- 💼 Experience through **internships, hackathons & real-world client projects**
+- 💬 Ask me about **Full Stack, AI/ML, DSA, IoT, Security**
+- ⚡ I focus on shipping products, not just tutorials
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,flask,mysql,mongodb,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,flask,mysql,mongodb,docker,git,github,linux" />
 </p>
-
-**Core Skills**
-- Full Stack Web Development
-- AI/ML Model Integration
-- Database Design (MySQL, DBMS systems)
-- Cybersecurity & Networking
-- IoT Systems (ESP32, Sensors)
-- Data Structures & Algorithms
-- System Design & Startup Building
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshJain&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshJain&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshjain271&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-🔹 **DineVibe** – Banquet/Event discovery & booking platform with smart search  
-🔹 **Air Pollution Monitoring System** – ESP32 + MQ135 + DSM501A with real-time analytics  
-🔹 **Airline Reservation System** – Flask + MySQL full DBMS project  
-🔹 **Natural Language to SQL Generator** – AI-powered query generation  
-🔹 **SentinelAI** – AI-driven network traffic monitoring & DDoS detection  
-🔹 **Computer Graphics Engine** – OpenGL rendering & raster graphics experiments  
+🔹 **DineVibe** – Smart banquet/event discovery & booking platform  
+🔹 **SentinelAI** – AI-driven network monitoring & DDoS detection  
+🔹 **Air Pollution Monitoring System** – ESP32 + Sensors + real-time analytics  
+🔹 **Airline Reservation System** – Flask + MySQL DBMS web app  
+🔹 **Natural Language → SQL Generator** – AI-powered query generation  
+🔹 **OpenGL Graphics Engine** – Computer graphics & rendering experiments  
 
 ---
 
-### 🏆 Experience & Achievements
+### 🏆 Experience
 
-- 📄 IEEE Conference Paper – *Evaluating LLMs in Code Generation*
-- 💼 Intern – Bolt IoT
-- 🔐 Cybersecurity Internship – Tech Defence Labs
-- 🧑‍💻 Assistant Programmer – Mivan Technologies
-- 🚀 Founder – DineVibe Startup (selected under 23 Ventures)
-- 🥇 Multiple hackathons & technical leadership roles
+- Assistant Programmer – Mivan Technologies  
+- IoT Intern – Bolt IoT  
+- Cybersecurity Intern – Tech Defence Labs  
+- IEEE Conference Paper Presenter  
+- Founder – DineVibe Startup  
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="mailto:your.email@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
-</a>
+  <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+
+  <a href="mailto:jainvansh344@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+  </a>
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/VanshJain/VanshJain/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/vanshjain271/vanshjain271/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-⭐️ *Building products > just writing code*
+⭐️ *Building real-world systems with code, hardware, and AI*
