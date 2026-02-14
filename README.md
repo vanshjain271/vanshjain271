@@ -1,35 +1,61 @@
 <h1 align="center">Vansh Jain</h1>
-<h3 align="center">Full Stack Engineer • AI Systems Builder • IoT Developer • Startup Founder</h3>
+<h3 align="center">Full Stack Engineer • AI Researcher • Systems Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="26" />
   </a>
   &nbsp;
   <a href="mailto:jainvansh344@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="26" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vanshjain271">
+    <img src="https://skillicons.dev/icons?i=github" height="26" />
   </a>
 </p>
 
 ---
 
-## 🚀 Who Am I
+## 🎯 Profile
 
-I build real-world systems that combine **software, AI, and hardware**.
+Engineering student focused on **AI systems, backend architecture, cybersecurity, and scalable software design**.
 
-- 🧠 Researching LLM accuracy in code generation  
-- 🏗 Founder of **DineVibe** – Banquet & Event Discovery Platform  
-- 🔐 Building AI-driven cybersecurity & network intelligence systems  
-- 🌍 Passionate about scalable system design & intelligent automation  
-- ⚡ I focus on shipping products — not just completing tutorials  
+I work at the intersection of:
+- 🧠 Artificial Intelligence & LLM Evaluation  
+- 🏗 Distributed & Backend Systems  
+- 🔐 Cybersecurity & Network Monitoring  
+- 🌍 Intelligent IoT Infrastructure  
+
+I build production-grade systems, not academic prototypes.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Research & Publications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,flask,mysql,mongodb,docker,git,github,linux" />
-</p>
+**IEEE Conference Paper – ICCCNT 2025**  
+*Evaluating the Accuracy of Large Language Models in Code Generation Tasks*
+
+- Designed structured benchmarking framework for LLM-generated code  
+- Evaluated correctness, optimization, and logical consistency  
+- Compared model behavior across algorithmic problem domains  
+- Focused on reliability of AI systems in software engineering  
+
+---
+
+## 🛠 Core Technical Skills
+
+### Languages
+C • C++ • Python • JavaScript • TypeScript • SQL  
+
+### Backend & Systems
+Flask • Node.js • Next.js • REST APIs • System Design • DBMS  
+
+### AI & Data
+Machine Learning • LLM Evaluation • Online Learning • Model Validation  
+
+### Infrastructure
+Docker • Git • Linux • Networking • Cybersecurity Fundamentals  
 
 ---
 
@@ -46,44 +72,48 @@ I build real-world systems that combine **software, AI, and hardware**.
 
 ---
 
-## 🔥 Featured Projects
+## 🔬 Selected Engineering Projects
 
-### 🚀 DineVibe  
-Smart banquet & event discovery engine with curated experiences and booking intelligence.
+### 🛡 SentinelAI – AI-Based Network Threat Detection
+- Real-time anomaly detection using ML models  
+- Designed traffic analysis pipeline  
+- Implemented adaptive detection logic  
+- Focused on DDoS pattern identification  
 
-### 🛡 SentinelAI  
-AI-driven DDoS detection and network anomaly monitoring system with real-time analysis.
+### 🧠 Natural Language → SQL Engine
+- Built LLM-powered structured query generator  
+- Designed prompt refinement pipeline  
+- Implemented validation layer for query correctness  
 
-### 🌫 Air Pollution Monitoring System  
-ESP32 + MQ135 + DSM501A + ML analytics dashboard.
+### ✈ Airline Reservation System (DBMS Project)
+- Designed normalized relational schema  
+- Implemented booking, cancellation & management modules  
+- Developed Flask + MySQL full-stack application  
 
-### ✈ Airline Reservation System  
-Flask + MySQL full DBMS web platform with booking & management modules.
-
-### 🧠 Natural Language → SQL Generator  
-LLM-powered database query generation engine.
-
-### 🎮 OpenGL Graphics Engine  
-Low-level computer graphics experiments using C++ & OpenGL.
+### 🌫 IoT Air Pollution Monitoring System
+- ESP32 + MQ135 + DSM501A sensor integration  
+- Real-time data acquisition & analytics  
+- Designed system architecture for scalable monitoring  
 
 ---
 
-## 🏆 Experience
+## 💼 Experience
 
 - Assistant Programmer – Mivan Technologies  
 - IoT Intern – Bolt IoT  
 - Cybersecurity Intern – Tech Defence Labs  
-- IEEE Research Paper Presenter (ICCCNT 2025)  
-- Founder – DineVibe  
+- IEEE Paper Presenter – ICCCNT 2025  
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/vanshjain271/vanshjain271/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vanshjain271/vanshjain271/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h3 align="center">Building Scalable Systems • AI Infrastructure • Startup Technology</h3>
+<h3 align="center">
+Focused on AI Reliability • Systems Engineering • Research-Driven Development
+</h3>
