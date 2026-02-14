@@ -1,17 +1,17 @@
 <h1 align="center">Vansh Jain</h1>
-<h3 align="center">Full Stack Engineer • AI Researcher • Systems Builder</h3>
+<h3 align="center">Full Stack Engineer • AI Researcher • Systems Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="26" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
   </a>
   &nbsp;
   <a href="mailto:jainvansh344@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="26" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
   </a>
   &nbsp;
   <a href="https://github.com/vanshjain271">
-    <img src="https://skillicons.dev/icons?i=github" height="26" />
+    <img src="https://skillicons.dev/icons?i=github" height="24" />
   </a>
 </p>
 
@@ -19,27 +19,27 @@
 
 ## 🎯 Profile
 
-Engineering student focused on **AI systems, backend architecture, cybersecurity, and scalable software design**.
+Engineering student focused on building **AI-driven systems, scalable backend architectures, and reliable software infrastructure**.
 
-I work at the intersection of:
-- 🧠 Artificial Intelligence & LLM Evaluation  
-- 🏗 Distributed & Backend Systems  
-- 🔐 Cybersecurity & Network Monitoring  
-- 🌍 Intelligent IoT Infrastructure  
+Strong interest in:
+- Artificial Intelligence & LLM Evaluation  
+- Backend & Distributed Systems  
+- Cybersecurity & Network Intelligence  
+- System Design & DBMS Architecture  
 
-I build production-grade systems, not academic prototypes.
+I build structured, production-ready systems with measurable logic — not surface-level demos.
 
 ---
 
 ## 🧠 Research & Publications
 
-**IEEE Conference Paper – ICCCNT 2025**  
-*Evaluating the Accuracy of Large Language Models in Code Generation Tasks*
+### IEEE Conference Paper – ICCCNT 2025  
+**Evaluating the Accuracy of Large Language Models in Code Generation Tasks**
 
 - Designed structured benchmarking framework for LLM-generated code  
-- Evaluated correctness, optimization, and logical consistency  
-- Compared model behavior across algorithmic problem domains  
-- Focused on reliability of AI systems in software engineering  
+- Evaluated correctness, optimization quality, and logical consistency  
+- Compared performance across algorithmic problem domains  
+- Studied reliability challenges in AI-assisted software engineering  
 
 ---
 
@@ -49,10 +49,10 @@ I build production-grade systems, not academic prototypes.
 C • C++ • Python • JavaScript • TypeScript • SQL  
 
 ### Backend & Systems
-Flask • Node.js • Next.js • REST APIs • System Design • DBMS  
+Flask • Node.js • Next.js • REST APIs • DBMS • System Design  
 
 ### AI & Data
-Machine Learning • LLM Evaluation • Online Learning • Model Validation  
+Machine Learning • LLM Evaluation • Model Validation • Online Learning  
 
 ### Infrastructure
 Docker • Git • Linux • Networking • Cybersecurity Fundamentals  
@@ -62,12 +62,12 @@ Docker • Git • Linux • Networking • Cybersecurity Fundamentals
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshjain271&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshjain271" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact" />
 </p>
 
 ---
@@ -75,25 +75,25 @@ Docker • Git • Linux • Networking • Cybersecurity Fundamentals
 ## 🔬 Selected Engineering Projects
 
 ### 🛡 SentinelAI – AI-Based Network Threat Detection
-- Real-time anomaly detection using ML models  
-- Designed traffic analysis pipeline  
-- Implemented adaptive detection logic  
-- Focused on DDoS pattern identification  
+- Designed real-time traffic analysis pipeline  
+- Implemented anomaly detection using ML models  
+- Built adaptive detection logic for DDoS pattern identification  
+- Focused on scalable monitoring architecture  
 
 ### 🧠 Natural Language → SQL Engine
-- Built LLM-powered structured query generator  
+- Developed LLM-powered structured query generator  
 - Designed prompt refinement pipeline  
 - Implemented validation layer for query correctness  
 
-### ✈ Airline Reservation System (DBMS Project)
+### ✈ Airline Reservation System (DBMS)
 - Designed normalized relational schema  
 - Implemented booking, cancellation & management modules  
-- Developed Flask + MySQL full-stack application  
+- Developed Flask + MySQL full-stack web application  
 
 ### 🌫 IoT Air Pollution Monitoring System
-- ESP32 + MQ135 + DSM501A sensor integration  
-- Real-time data acquisition & analytics  
-- Designed system architecture for scalable monitoring  
+- Integrated ESP32 + MQ135 + DSM501A sensors  
+- Built real-time data acquisition pipeline  
+- Designed scalable monitoring architecture  
 
 ---
 
@@ -115,5 +115,5 @@ Docker • Git • Linux • Networking • Cybersecurity Fundamentals
 ---
 
 <h3 align="center">
-Focused on AI Reliability • Systems Engineering • Research-Driven Development
+AI Reliability • Systems Engineering • Research-Driven Development
 </h3>
