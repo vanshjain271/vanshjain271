@@ -57,17 +57,3 @@ Secure System Design
 Competitive Programming (Div 2 Track)
 
 <p align="center"> Research × Engineering × Performance </p>
-🎯 Important Notes
-
-I removed the unstable stats API that was breaking.
-
-I replaced it with:
-
-🔥 Contribution streak (stable)
-
-🔥 Live activity graph
-
-This will not show broken images.
-
-If streak image also breaks:
-Just refresh GitHub page. It’s external API caching.
