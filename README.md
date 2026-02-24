@@ -1,64 +1,40 @@
-<h1 align="center">Vansh Jain</h1>
+Vansh Jain
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+Reliability+Engineer;Systems+Architect;Full+Stack+Engineer;Research+Driven+Developer" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jainvansh344@gmail.com"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/vanshjain271"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+▣ Engineering Focus
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+Reliability+Engineer;Systems+Architect;Full+Stack+Engineer;Research+Driven+Developer" />
-</p>
+I build scalable, measurable, and reliability-driven systems across:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jainvansh344@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vanshjain271">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+AI Model Evaluation & LLM Benchmarking
 
----
+Backend & Distributed Systems
 
-## ▣ Engineering Philosophy
+Database Architecture (ACID, Concurrency, Normalization)
 
-I build **measurable, structured, and scalable systems** —  
-focused on correctness, reliability, and performance.
+Network Intelligence & Security Engineering
 
-Intersection of:
-- AI Evaluation & Model Reliability  
-- Backend & Distributed Systems  
-- Database Architecture  
-- Network Intelligence & Security  
+▣ Core Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,flask,nodejs,nextjs,mysql,docker,linux,git" /> </p>
+▣ Technical Strength
+AI & LLM Evaluation     █████████████░░░
+Backend Systems         ██████████████░░
+Database Architecture   █████████████░░░
+System Design           ████████████░░░░
+Network Security        ███████████░░░░░
+▣ Research
+IEEE Conference — ICCCNT 2025
 
----
+Evaluating the Accuracy of Large Language Models in Code Generation Tasks
 
-## ▣ Core Stack
+Designed structured benchmarking framework
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,flask,nodejs,nextjs,mysql,docker,linux,git" />
-</p>
+Evaluated correctness, optimization quality & logical consistency
 
----
+Cross-domain algorithm validation
 
-## ▣ Technical Depth
+Studied reliability gaps in AI-assisted engineering
 
-```text
-AI & Research        █████████████░░░  85%
-Backend Systems      ██████████████░░  90%
-Database Design      █████████████░░░  88%
-System Architecture  ████████████░░░░  82%
-Network Security     ███████████░░░░░  78%
-Research
-IEEE Conference – ICCCNT 2025
-
-Evaluating Accuracy of Large Language Models in Code Generation
-
-• Designed structured benchmarking framework
-• Measured correctness & optimization fidelity
-• Cross-domain algorithm validation
-• Studied reliability gaps in AI-assisted engineering
-
-▣ Selected Systems
-🛡 SentinelAI — Network Threat Detection Engine
+▣ Selected Engineering Systems
+🛡 SentinelAI — AI-Based Network Threat Detection
 
 Real-time traffic inspection pipeline
 
@@ -66,15 +42,15 @@ ML-based anomaly modeling
 
 Adaptive DDoS detection logic
 
-Scalable monitoring design
+Scalable monitoring architecture
 
 🧠 Natural Language → SQL Engine
 
-LLM-powered query synthesis
+LLM-powered structured query generation
 
-Prompt refinement architecture
+Prompt refinement pipeline
 
-Query validation + safety layer
+Query validation & safety layer
 
 Multi-schema compatibility
 
@@ -82,30 +58,32 @@ Multi-schema compatibility
 
 Fully normalized relational schema
 
-ACID-compliant transaction flow
+ACID-compliant transaction handling
 
-Flask + MySQL backend
+Flask + MySQL backend architecture
 
-Concurrent booking handling
+Concurrent booking control
 
 🌫 IoT Air Pollution Monitoring
 
 ESP32 + MQ135 + DSM501A integration
 
-Real-time ingestion architecture
+Real-time ingestion pipeline
 
-Sensor fusion pipeline
+Sensor fusion architecture
 
-▣ Engineering Activity
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshjain271&theme=react-dark&hide_border=true"/> </p>
+▣ GitHub Stats
+<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+▣ Live Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshjain271&theme=react-dark&hide_border=true"/> </p>
 ▣ Current Focus
 
-AI Reliability & LLM Benchmarking
+AI Reliability & Structured Benchmarking
 
-Distributed Backend Systems
-
-Competitive Programming (Div 2 Focus)
+Distributed Backend Architecture
 
 Secure System Design
 
-<h3 align="center"> Research × Engineering × Performance </h3> ```
+Competitive Programming (Div 2 Progression)
+
+<p align="center"> Research × Engineering × Performance </p>
