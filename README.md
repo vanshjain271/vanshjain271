@@ -1,119 +1,111 @@
 <h1 align="center">Vansh Jain</h1>
-<h3 align="center">Full Stack Engineer • AI Researcher • Systems Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+Reliability+Engineer;Systems+Architect;Full+Stack+Engineer;Research+Driven+Developer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vansh-jain-78b9a0282">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:jainvansh344@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="24" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/vanshjain271">
-    <img src="https://skillicons.dev/icons?i=github" height="24" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🎯 Profile
+## ▣ Engineering Philosophy
 
-Engineering student focused on building **AI-driven systems, scalable backend architectures, and reliable software infrastructure**.
+I build **measurable, structured, and scalable systems** —  
+focused on correctness, reliability, and performance.
 
-Strong interest in:
-- Artificial Intelligence & LLM Evaluation  
+Intersection of:
+- AI Evaluation & Model Reliability  
 - Backend & Distributed Systems  
-- Cybersecurity & Network Intelligence  
-- System Design & DBMS Architecture  
-
-I build structured, production-ready systems with measurable logic — not surface-level demos.
+- Database Architecture  
+- Network Intelligence & Security  
 
 ---
 
-## 🧠 Research & Publications
-
-### IEEE Conference Paper – ICCCNT 2025  
-**Evaluating the Accuracy of Large Language Models in Code Generation Tasks**
-
-- Designed structured benchmarking framework for LLM-generated code  
-- Evaluated correctness, optimization quality, and logical consistency  
-- Compared performance across algorithmic problem domains  
-- Studied reliability challenges in AI-assisted software engineering  
-
----
-
-## 🛠 Core Technical Skills
-
-### Languages
-C • C++ • Python • JavaScript • TypeScript • SQL  
-
-### Backend & Systems
-Flask • Node.js • Next.js • REST APIs • DBMS • System Design  
-
-### AI & Data
-Machine Learning • LLM Evaluation • Model Validation • Online Learning  
-
-### Infrastructure
-Docker • Git • Linux • Networking • Cybersecurity Fundamentals  
-
----
-
-## 📊 GitHub Analytics
+## ▣ Core Stack
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshjain271" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,flask,nodejs,nextjs,mysql,docker,linux,git" />
 </p>
 
 ---
 
-## 🔬 Selected Engineering Projects
+## ▣ Technical Depth
 
-### 🛡 SentinelAI – AI-Based Network Threat Detection
-- Designed real-time traffic analysis pipeline  
-- Implemented anomaly detection using ML models  
-- Built adaptive detection logic for DDoS pattern identification  
-- Focused on scalable monitoring architecture  
+```text
+AI & Research        █████████████░░░  85%
+Backend Systems      ██████████████░░  90%
+Database Design      █████████████░░░  88%
+System Architecture  ████████████░░░░  82%
+Network Security     ███████████░░░░░  78%
+Research
+IEEE Conference – ICCCNT 2025
 
-### 🧠 Natural Language → SQL Engine
-- Developed LLM-powered structured query generator  
-- Designed prompt refinement pipeline  
-- Implemented validation layer for query correctness  
+Evaluating Accuracy of Large Language Models in Code Generation
 
-### ✈ Airline Reservation System (DBMS)
-- Designed normalized relational schema  
-- Implemented booking, cancellation & management modules  
-- Developed Flask + MySQL full-stack web application  
+• Designed structured benchmarking framework
+• Measured correctness & optimization fidelity
+• Cross-domain algorithm validation
+• Studied reliability gaps in AI-assisted engineering
 
-### 🌫 IoT Air Pollution Monitoring System
-- Integrated ESP32 + MQ135 + DSM501A sensors  
-- Built real-time data acquisition pipeline  
-- Designed scalable monitoring architecture  
+▣ Selected Systems
+🛡 SentinelAI — Network Threat Detection Engine
 
----
+Real-time traffic inspection pipeline
 
-## 💼 Experience
+ML-based anomaly modeling
 
-- Assistant Programmer – Mivan Technologies  
-- IoT Intern – Bolt IoT  
-- Cybersecurity Intern – Tech Defence Labs  
-- IEEE Paper Presenter – ICCCNT 2025  
+Adaptive DDoS detection logic
 
----
+Scalable monitoring design
 
-## 🐍 Contribution Activity
+🧠 Natural Language → SQL Engine
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshjain271/vanshjain271/output/github-contribution-grid-snake.svg" />
-</p>
+LLM-powered query synthesis
 
----
+Prompt refinement architecture
 
-<h3 align="center">
-AI Reliability • Systems Engineering • Research-Driven Development
-</h3>
+Query validation + safety layer
+
+Multi-schema compatibility
+
+✈ Distributed Airline Reservation System
+
+Fully normalized relational schema
+
+ACID-compliant transaction flow
+
+Flask + MySQL backend
+
+Concurrent booking handling
+
+🌫 IoT Air Pollution Monitoring
+
+ESP32 + MQ135 + DSM501A integration
+
+Real-time ingestion architecture
+
+Sensor fusion pipeline
+
+▣ Engineering Activity
+<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vanshjain271&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjain271&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshjain271&theme=react-dark&hide_border=true"/> </p>
+▣ Current Focus
+
+AI Reliability & LLM Benchmarking
+
+Distributed Backend Systems
+
+Competitive Programming (Div 2 Focus)
+
+Secure System Design
+
+<h3 align="center"> Research × Engineering × Performance </h3> ```
