@@ -1,426 +1,406 @@
+# 🚀 Vansh Jain
 
+> **AI Reliability Engineer | Systems Architect | Research-Driven Developer**
 
-## Overview
+<div align="center">
 
-You now have three components to make your GitHub profile more engaging:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vansh-jain-78b9a0282)](https://www.linkedin.com/in/vansh-jain-78b9a0282)
+[![Email](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jainvansh344@gmail.com)](mailto:jainvansh344@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vanshjain271)](https://github.com/vanshjain271)
 
-1. **Enhanced README.md** - Professional, modern markdown with improved visual hierarchy
-2. **Profile Analytics Dashboard** (profile-analytics.html) - Interactive viewer tracker with carousels
-3. **This Implementation Guide** - Instructions to tie it all together
+**[🔗 Portfolio](#-featured-projects) • [📚 Research](#-research--publications) • [💻 Tech Stack](#-tech-stack)**
 
----
-
-## 📋 Part 1: Update Your GitHub README
-
-### Quick Setup
-1. Copy the content from `README.md`
-2. Go to your GitHub profile repository (username/username)
-3. Replace your current README.md with the new version
-4. Commit & push
-
-Your profile will automatically render with:
-- ✅ Better visual hierarchy
-- ✅ Interactive project showcase
-- ✅ Enhanced stats display
-- ✅ Professional styling
-- ✅ Animated sections
+</div>
 
 ---
 
-## 🎯 Part 2: Add the Profile Views Tracker
+## 📊 Quick Stats
 
-### Option A: Host as a Personal Dashboard (Recommended)
+<div align="center">
 
-#### Step 1: Deploy to GitHub Pages
-```bash
-# 1. Create a new repository called "profile-analytics"
-git clone https://github.com/YOUR_USERNAME/profile-analytics.git
-cd profile-analytics
+| Metric | Value |
+|:------:|:-----:|
+| **Active Projects** | 8+ |
+| **Publications** | IEEE ICCCNT 2025 |
+| **Tech Stack** | 12+ |
+| **Focus Areas** | 3 (AI, Systems, Security) |
 
-# 2. Copy profile-analytics.html to index.html
-cp profile-analytics.html index.html
+![GitHub followers](https://img.shields.io/github/followers/vanshjain271?style=social&label=Follow)
+![GitHub User's stars](https://img.shields.io/github/stars/vanshjain271?style=social&label=Stars)
 
-# 3. Commit and push
-git add .
-git commit -m "Add interactive profile analytics dashboard"
-git push origin main
-```
-
-Your dashboard is now live at: `https://YOUR_USERNAME.github.io/profile-analytics`
-
-#### Step 2: Link from Your Main Profile
-Add a link in your main README:
-
-```markdown
-## 📊 Profile Analytics
-
-[![View Profile Analytics](https://img.shields.io/badge/📊%20Analytics%20Dashboard-Interactive-blue?style=for-the-badge)](https://YOUR_USERNAME.github.io/profile-analytics)
-
-**Click above to see:**
-- 👁️ Real-time profile viewer tracker
-- 📈 Analytics and insights
-- 🎡 Interactive project carousel
-- 🏆 Achievements showcase
-```
+</div>
 
 ---
 
-### Option B: Embed in Notion or Personal Website
+## 💡 What I Engineer
 
-If you have a personal website or Notion profile:
+<table>
+<tr>
+<td width="50%">
 
-```html
-<iframe 
-  src="https://YOUR_USERNAME.github.io/profile-analytics" 
-  width="100%" 
-  height="1200px"
-  style="border: none; border-radius: 8px;"
-/>
-```
+### 🤖 AI Reliability
+- LLM benchmarking & evaluation
+- Model correctness validation
+- Systematic performance metrics
+- Production AI systems
 
----
+</td>
+<td width="50%">
 
-## 🔗 Part 3: Integrate Real Profile View Tracking
+### 🏗️ Distributed Systems
+- ACID transactions
+- Concurrent architectures
+- Real-time processing
+- Scalability at scale
 
-### Option 1: Using GitHub API + Cloudflare Worker (Advanced)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Create a serverless function to track real viewers:
+### 🔒 Network Intelligence
+- Anomaly detection
+- Threat modeling
+- Adaptive defense systems
+- Security architecture
 
-```javascript
-// Cloudflare Worker (or similar serverless platform)
-addEventListener('fetch', event => {
-  event.respondWith(handleRequest(event.request))
-})
+</td>
+<td width="50%">
 
-async function handleRequest(request) {
-  const ip = request.headers.get('cf-connecting-ip');
-  const viewerInfo = {
-    ip: ip,
-    timestamp: new Date().toISOString(),
-    userAgent: request.headers.get('user-agent')
-  };
-  
-  // Store in your database or JSON file
-  await storeViewer(viewerInfo);
-  
-  return new Response('Tracked', { status: 200 });
-}
-```
+### 📊 Data Engineering
+- Database optimization
+- Query synthesis
+- Data pipelines
+- Real-time analytics
 
-Then fetch this data in your HTML dashboard.
-
----
-
-### Option 2: Using Analytics Service (Easiest)
-
-#### Using Statcounter or Similar:
-1. Sign up at [statcounter.com](https://statcounter.com)
-2. Create a project for your GitHub profile
-3. Get tracking code
-4. Add to GitHub pages or personal site
-
-#### Using Plausible Analytics (Privacy-Focused):
-1. Sign up at [plausible.io](https://plausible.io)
-2. Add your GitHub pages domain
-3. Integrate analytics script
-4. View visitor data in real-time
+</td>
+</tr>
+</table>
 
 ---
 
-### Option 3: Simple Visitor Counter (No Backend Needed)
+## 🛠️ Tech Stack
 
-Use a service that tracks views without backend complexity:
+<div align="center">
 
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+### Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-[View Interactive Analytics](https://YOUR_USERNAME.github.io/profile-analytics)
-```
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Supported services:
-- **komarev** - Simple counter
-- **GitHub readme activity graph** - Activity visualization
-- **GitHub streak stats** - Contribution streaks
+### Data & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 🎨 Part 4: Customize the Dashboard
-
-### Edit Visitor Data
-In `profile-analytics.html`, update the visitors array:
-
-```javascript
-const visitors = [
-    { 
-        name: "Sarah Chen", 
-        role: "ML Engineer at Google", 
-        time: "2 hours ago", 
-        avatar: "SC" 
-    },
-    // Add more visitors here
-];
-```
-
-### Edit Projects
-Update the projects array with your real projects:
-
-```javascript
-const projects = [
-    {
-        name: "🤖 SentinelAI",
-        desc: "AI-Powered Network Threat Detection",
-        techs: ["Python", "TensorFlow", "Network Analysis"]
-    },
-    // Add your projects
-];
-```
-
-### Change Colors
-Modify the color scheme (currently blue/GitHub dark):
-
-```css
-/* Change primary color from #58a6ff to your color */
---primary: #58a6ff;   /* Change this */
---primary-light: #79c0ff;
-```
+</div>
 
 ---
 
-## 🚀 Part 5: Make It More Engaging
+## 📚 Research & Publications
 
-### Add Real-Time Data
+### 🔬 Evaluating the Accuracy of LLMs in Code Generation  
+**IEEE ICCCNT 2025** | [📖 Read Paper](#)
 
-#### Using GitHub API:
-```javascript
-async function fetchGitHubStats() {
-    const response = await fetch('https://api.github.com/users/YOUR_USERNAME');
-    const data = await response.json();
-    
-    document.getElementById('followers').textContent = data.followers;
-    document.getElementById('repos').textContent = data.public_repos;
-}
+Comprehensive benchmarking framework for systematically evaluating LLMs in code generation tasks.
 
-fetchGitHubStats();
-```
+<details>
+<summary><b>📌 Key Contributions</b></summary>
 
-#### Using Google Analytics:
-```javascript
-// Track dashboard views
-gtag('event', 'view_analytics', {
-    'dashboard': 'profile_analytics',
-    'timestamp': new Date().toISOString()
-});
-```
+- ✅ Structured evaluation framework with **100+ test cases**
+- ✅ Measured **correctness, optimization quality & logical consistency**
+- ✅ **Cross-domain algorithm validation** (sorting, graphs, dynamic programming)
+- ✅ **Identified reliability gaps** in AI-assisted code synthesis
+- ✅ **Benchmarked:** GPT-4, Claude, Codex on custom dataset
+
+**Impact:** Actionable insights for improving LLM reliability in production code generation systems.
+
+</details>
 
 ---
 
-### Add Interactive Features
+## 🚀 Featured Projects
 
-#### 1. Visitor Search
-```javascript
-function filterVisitors(searchTerm) {
-    const filtered = visitors.filter(v => 
-        v.name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    renderVisitors(filtered);
-}
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 2. Export Statistics
-```javascript
-function exportStats() {
-    const stats = {
-        totalViews: document.getElementById('viewCount').textContent,
-        visitors: visitors,
-        exportDate: new Date().toISOString()
-    };
-    
-    const json = JSON.stringify(stats, null, 2);
-    const blob = new Blob([json], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'profile-stats.json';
-    a.click();
-}
-```
+### 🤖 SentinelAI
+**AI-Powered Network Threat Detection**
 
-#### 3. Dark/Light Theme Toggle
-```javascript
-function toggleTheme() {
-    document.body.classList.toggle('light-mode');
-    localStorage.setItem('theme', 
-        document.body.classList.contains('light-mode') ? 'light' : 'dark'
-    );
-}
-```
+Real-time anomaly detection and adaptive DDoS defense system.
+
+**Tech Stack:**
+- Python (scikit-learn, TensorFlow)
+- Network monitoring
+- ML-based classification
+
+**Key Features:**
+- ⚡ Real-time traffic classification
+- 🛡️ Adaptive DDoS pattern recognition
+- 📊 Scalable monitoring dashboard
+- 🔄 Auto-recovery mechanisms
+
+**Metrics:** 40% reduction in false positives vs. signature systems
+
+[🔗 Explore](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 NL → SQL Engine
+**LLM-Powered Query Synthesis**
+
+Natural language to optimized SQL with safety validation.
+
+**Tech Stack:**
+- Flask backend
+- LLM APIs (GPT-4/Claude)
+- SQL parser & validator
+
+**Key Features:**
+- 🗣️ Natural language translation
+- ✅ Query correctness validation
+- 🔐 Schema safety checks
+- 🔄 Multi-turn refinement
+
+**Performance:** 92% accuracy on SQL benchmarks
+
+[🔗 Explore](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Airline Reservation System
+**Distributed Booking Engine**
+
+ACID-compliant concurrent reservation system.
+
+**Tech Stack:**
+- Python/Flask
+- MySQL (ACID)
+- Connection pooling
+
+**Key Features:**
+- 🗄️ Normalized 3NF schema
+- 🔐 ACID guarantees
+- ⚡ Conflict resolution
+- 📊 Real-time availability
+
+**Scale:** 1000+ concurrent bookings
+
+[🔗 Explore](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 IoT Air Pollution Monitor
+**Real-Time Environmental Pipeline**
+
+Multi-city edge-to-cloud data streaming system.
+
+**Tech Stack:**
+- C++ embedded
+- ESP32 microcontroller
+- IoT protocols
+
+**Key Features:**
+- 📡 Multi-sensor fusion
+- 📊 Real-time streaming
+- 🚨 Automated alerts
+- 📈 Trend analysis
+
+**Deployment:** 5+ city monitoring
+
+[🔗 Explore](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Network Security Intelligence
+**Behavioral Threat Classification**
+
+Advanced packet analysis and anomaly detection.
+
+**Tech Stack:**
+- Network analysis
+- Statistical modeling
+- Rule-based systems
+
+**Focus Areas:**
+- 🔍 Protocol anomalies
+- 🚨 Port scanning detection
+- 📊 Data exfiltration patterns
+- 🎯 Behavioral analysis
+
+[🔗 Explore](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+**Building & Shipping**
+
+Currently working on cutting-edge reliability systems and distributed infrastructure tools.
+
+Stay tuned for more! 🚀
+
+[👀 View All](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Part 6: Setup Real Viewer Tracking (Backend)
+## 📈 GitHub Activity
 
-### Simple Node.js Solution
+<div align="center">
 
-```javascript
-// server.js
-const express = require('express');
-const fs = require('fs');
-const app = express();
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshjain271&theme=tokyonight&hide_border=true&card_width=500&background=0D1117)](https://github.com/vanshjain271)
 
-const VIEWERS_FILE = 'viewers.json';
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshjain271&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/vanshjain271)
 
-function getViewers() {
-    return JSON.parse(fs.readFileSync(VIEWERS_FILE, 'utf-8'));
-}
-
-function saveViewer(viewer) {
-    const viewers = getViewers();
-    viewers.unshift(viewer);
-    viewers.splice(100); // Keep only last 100
-    fs.writeFileSync(VIEWERS_FILE, JSON.stringify(viewers, null, 2));
-}
-
-app.get('/api/track', (req, res) => {
-    const viewer = {
-        ip: req.ip,
-        timestamp: new Date().toISOString(),
-        userAgent: req.get('user-agent').substring(0, 100)
-    };
-    
-    saveViewer(viewer);
-    res.json({ success: true });
-});
-
-app.get('/api/viewers', (req, res) => {
-    res.json(getViewers().slice(0, 5));
-});
-
-app.listen(3000, () => console.log('Server running on port 3000'));
-```
+</div>
 
 ---
 
-## ✨ Part 7: Advanced Customizations
+## 🎯 Expertise Matrix
 
-### Add Glassmorphism
-```css
-.card {
-    background: rgba(22, 27, 34, 0.7);
-    backdrop-filter: blur(20px);
-    border: 1px solid rgba(88, 166, 255, 0.2);
-}
+<div align="center">
+
+| Discipline | Expertise Level | Key Projects |
+|:----------:|:---------------:|:-------------|
+| **AI Reliability** | ⭐⭐⭐⭐⭐ | Research (ICCCNT), NL→SQL Engine |
+| **Systems Design** | ⭐⭐⭐⭐⭐ | Airline Reservation, SentinelAI |
+| **Network Security** | ⭐⭐⭐⭐⭐ | SentinelAI, Network Intelligence |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | IoT System, Query Engine |
+| **Cloud & DevOps** | ⭐⭐⭐⭐☆ | Distributed systems, Containerization |
+
+</div>
+
+---
+
+## 🔧 Current Focus
+
 ```
+🚀 Active Development:
+  ├─ Scaling AI reliability frameworks for production LLMs
+  ├─ Building observability tools for distributed systems
+  ├─ Researching adaptive security architectures
+  └─ High-impact open-source contributions
 
-### Add Sound Effects (Optional)
-```javascript
-function playNotification() {
-    const audio = new Audio('notification.mp3');
-    audio.play();
-}
-```
-
-### Add Animations on Scroll
-```javascript
-const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.classList.add('animated');
-        }
-    });
-});
-
-document.querySelectorAll('.card').forEach(card => {
-    observer.observe(card);
-});
+📚 Learning & Exploring:
+  ├─ Advanced distributed consensus algorithms (Raft, PBFT)
+  ├─ Graph neural networks for anomaly detection
+  ├─ Kubernetes orchestration at enterprise scale
+  └─ Formal verification & correctness proofs
 ```
 
 ---
 
-## 🎯 Implementation Checklist
+## 🏆 Notable Achievements
 
-- [ ] Update main README.md with enhanced version
-- [ ] Deploy profile-analytics.html to GitHub Pages
-- [ ] Add link to analytics dashboard in main README
-- [ ] Customize visitor data with real information
-- [ ] Update projects section with your projects
-- [ ] Set up analytics service (Plausible, Statcounter, etc.)
-- [ ] Test responsive design on mobile
-- [ ] Add custom domain (optional)
-- [ ] Share updated profile with your network
+<table>
+<tr>
+<td>
 
----
+✨ **IEEE Publication**
+Published research on LLM evaluation methodologies in ICCCNT 2025
 
-## 🔗 Useful Resources
+</td>
+<td>
 
-### Analytics & Tracking
-- [Plausible Analytics](https://plausible.io) - Privacy-focused
-- [Statcounter](https://statcounter.com) - Free visitor tracking
-- [Google Analytics](https://analytics.google.com) - Feature-rich
-- [Cloudflare Analytics](https://www.cloudflare.com/web-analytics/) - Free, privacy-first
+🏗️ **Production Systems**
+Built systems handling 1000+ concurrent requests without data loss
 
-### GitHub Tools
-- [GitHub API](https://docs.github.com/en/rest) - Fetch user data
-- [GitHub Pages](https://pages.github.com) - Free hosting
-- [GitHub Actions](https://github.com/features/actions) - Automation
+</td>
+</tr>
+<tr>
+<td>
 
-### Design Resources
-- [Shields.io](https://shields.io) - Badge generator
-- [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/) - Activity visualization
-- [GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com) - Contribution tracking
+🎯 **Benchmarking Frameworks**
+Designed evaluation tools identifying critical reliability gaps
 
----
+</td>
+<td>
 
-## 💡 Pro Tips
+🛡️ **ML-Based Detection**
+40% reduction in false positives vs. signature-based systems
 
-1. **Keep it Updated**: Refresh visitor data monthly
-2. **Mobile Friendly**: Always test on mobile devices
-3. **Fast Loading**: Optimize images and minimize CSS
-4. **SEO Friendly**: Add meta tags to your HTML
-5. **Accessible**: Ensure contrast ratios and keyboard navigation
+</td>
+</tr>
+<tr>
+<td>
 
----
+📊 **Data Optimization**
+Optimized queries achieving 92% accuracy on complex benchmarks
 
-## 🐛 Troubleshooting
+</td>
+<td>
 
-### Dashboard not loading?
-- Check CORS settings if fetching from API
-- Ensure HTML file path is correct in GitHub Pages
-- Clear browser cache
+🌱 **Knowledge Sharing**
+Mentor & contributor passionate about systems reliability
 
-### Animations stuttering?
-- Reduce animation complexity
-- Use `will-change` CSS property
-- Profile in Chrome DevTools
-
-### Real-time data not updating?
-- Check API response in browser console
-- Verify authentication tokens
-- Check rate limits
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Next Steps
+## 💬 Let's Collaborate
 
-1. **Implement** the enhanced README
-2. **Deploy** the analytics dashboard
-3. **Integrate** real viewer tracking
-4. **Share** your updated profile with your network
-5. **Monitor** visitor analytics and refine
+I'm passionate about working on **AI reliability**, **systems engineering**, and **research projects** that push boundaries.
 
----
+<div align="center">
 
-## 📞 Need Help?
+[**📧 Email**](mailto:jainvansh344@gmail.com) • 
+[**🔗 LinkedIn**](https://www.linkedin.com/in/vansh-jain-78b9a0282) • 
+[**💻 GitHub**](https://github.com/vanshjain271)
 
-If you encounter issues:
-1. Check browser console for errors (F12)
-2. Verify all file paths are correct
-3. Test with a simple HTML file first
-4. Check GitHub Pages settings
+**Open to:** Research collaborations • Engineering leadership • Mentorship • Speaking opportunities
+
+</div>
 
 ---
+
+## 📡 Profile Analytics
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=vanshjain271&color=blue&style=flat-square)](https://github.com/vanshjain271)
 
 **Last Updated:** June 2025  
-**Version:** 1.0  
-**Customized for:** Vansh Jain
+**Status:** 🟢 Active & Building
 
-Good luck with your enhanced GitHub profile! 🌟
+---
+
+<img src="https://img.shields.io/badge/Focused_on-Research_×_Engineering_×_Reliability-blueviolet?style=for-the-badge" alt="Focus">
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Vansh Jain** | [Back to Top](#-vansh-jain)
+
+</div>
